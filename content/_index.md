@@ -1,5 +1,5 @@
 ---
-description: "Powerful, pliable pixel perfection."
+description: "Amogus."
 paige:
   search:
     hide_page: true
